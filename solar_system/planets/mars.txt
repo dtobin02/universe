@@ -2,3 +2,4 @@ Mars is dusty.
 Mars has a 687 day year.
 Mars is red.
 Mars is gaseous
+Mars is double the size of earth
